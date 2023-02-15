@@ -10,6 +10,7 @@ namespace AulaQuinzeDeFervereiro
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Qualquer coisa");
         }
     }
 }
